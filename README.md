@@ -6,30 +6,28 @@ A modern, lightweight e-commerce web application built with Angular.
 
 ## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - Node.js (v16+)
 - npm or yarn
 
-### Installation
+## Installation
 
-# Clone the repository
+## Clone the repository
 
 git clone <repository-url>
 
-# Navigate to project
+## Navigate to project
 
 cd ngECommerce
 
-# Install dependencies
+## Install dependencies
 
 npm install
 
-# Start development server
+## Start development server
 
 npm start
-
-```
 
 Open `http://localhost:4200` in your browser.
 
@@ -40,4 +38,3 @@ MIT License - see LICENSE file for details
 ## Support
 
 For issues or questions, please open a GitHub issue.
-```
